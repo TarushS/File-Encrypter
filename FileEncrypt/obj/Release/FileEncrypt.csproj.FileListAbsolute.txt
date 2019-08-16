@@ -1,0 +1,6 @@
+C:\Users\dell\Documents\Visual Studio 2017\Projects\FileEncrypt\FileEncrypt\bin\Release\FileEncrypt.exe.config
+C:\Users\dell\Documents\Visual Studio 2017\Projects\FileEncrypt\FileEncrypt\bin\Release\FileEncrypt.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\FileEncrypt\FileEncrypt\bin\Release\FileEncrypt.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\FileEncrypt\FileEncrypt\obj\Release\FileEncrypt.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Visual Studio 2017\Projects\FileEncrypt\FileEncrypt\obj\Release\FileEncrypt.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\FileEncrypt\FileEncrypt\obj\Release\FileEncrypt.pdb
